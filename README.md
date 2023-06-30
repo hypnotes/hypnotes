@@ -1,6 +1,8 @@
 ### Hi there 👋
+<!--
 
 ![Hypnotes's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypnotes&count_private=true&show_icons=true&theme=default)
+-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayeongpark)](https://solved.ac/hayeongpark)
 
